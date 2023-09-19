@@ -37,7 +37,7 @@
                         Console.WriteLine("Change board style" +
                             "\n 1. Change symbol for 'Black' square" +
                             "\n 2. Change symbol for 'White' square" +
-                            "\n 3. Revert colours" +
+                            "\n 3. Reverse colours" +
                             "\n 4. Revert to default");
                         string temp2 = Console.ReadLine();
                         switch (temp2)
